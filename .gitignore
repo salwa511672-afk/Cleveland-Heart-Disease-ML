@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+*.pyc
+cleveland_outputs/
+cleveland_research_outputs.zip
+processed.cleveland.data
+*.joblib
+.DS_Store
